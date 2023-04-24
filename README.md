@@ -6,4 +6,9 @@
 
 #### 2) Візьміть архів із готовою версткою та розпакуйте його на робочому столі.
 
+![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-24%20140904.png)
+
+#### 3) Скачайте порожню тему epixx з https://underscores.me/ , встановіть, активуйте і використовуйте як заготівлю. Після повертаємося до нашого Wordpress і завантажуємо тему(zip. архів), яку ми щойно завантажили. 
+
 ![](https://github.com/ssonyau/)
+
