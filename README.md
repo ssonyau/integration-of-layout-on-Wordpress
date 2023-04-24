@@ -16,5 +16,7 @@
 
 ![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-24%20143835.png)
 
+#### 5) Скопіюйте всі файли з вашої верстки до папки теми (крім html-файлів). Для цього відкриваємо нашу папку з темою і наш zip.архів, і з zip.архіву переносимо наші стилі, картинки та шрифти до папки. 
 
+![](https://github.com/ssonyau/)
 
