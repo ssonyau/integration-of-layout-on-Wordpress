@@ -14,7 +14,7 @@
 
 #### 4) Після заходимо подивитися та бачимо, що тема справді дуже базова і там нічого зайвого немає.
 
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-24%20143835.png)
 
 
 
