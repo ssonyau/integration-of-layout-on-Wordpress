@@ -31,8 +31,12 @@
 ```
 ![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-25%20121328.png) 
 
-#### І теж саме робимо в кінці нашого файлу:
+#### І теж саме робимо в кінці нашого файлу, щоб підключити скріпти:
 
 ![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-25%20122633.png) 
 
+#### І також підключаємо картинки таким самим способом.
 
+#### Після цього ми можемо зайти, оновити нашу сторінку та побачити, що у нас все підключилося та завантажилося так, як потрібно.
+
+![](https://github.com/ssonyau/) 
