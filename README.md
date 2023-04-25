@@ -33,6 +33,6 @@
 
 #### І теж саме робимо в кінці нашого файлу:
 
-![](https://github.com/ssonyau/) 
+![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-25%20122633.png) 
 
 
