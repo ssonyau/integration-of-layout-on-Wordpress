@@ -39,4 +39,12 @@
 
 #### Після цього ми можемо зайти, оновити нашу сторінку та побачити, що у нас все підключилося та завантажилося так, як потрібно.
 
-![](https://github.com/ssonyau/) 
+![](https://github.com/ssonyau/integration-of-layout-on-Wordpress/blob/main/Screenshot%202023-04-25%20124725.png) 
+ 
+#### 8) Так як у нас все лежить в одному файлі page.php, це не правильно, нам потрібно перенести наш header та footer в окремі файли. Після перенесення у файлі page.php на місце header та footer вставляємо код:
+```
+<?php get_header(); ?> 
+```
+```
+<?php get_footer(); ?> 
+```
